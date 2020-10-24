@@ -1,14 +1,15 @@
-# Descriptive Title
+# OpenCV-Masker
 
-Description of project
-
-## Table of Contents
-
-.
+Applying OpenCV masking techniques
 
 ## Sections
 
-.
+- [OpenCV-Masker](#opencv-masker)
+  - [Sections](#sections)
+  - [Project Status](#project-status)
+  - [Additional Information](#additional-information)
+    - [Screenshots](#screenshots)
+    - [Links](#links)
 
 ## Project Status
 
